@@ -1,0 +1,23 @@
+In PYTHON
+There are 2 types of DS
+ 1.Built-in DS
+   -->LIST
+   -->SET
+   -->TUPLE
+   -->DICTIONARY
+2.User-Defined DS
+   -->STACK
+   -->QUEUE
+   -->LINKED LIST
+   -->TREE 
+   -->GRAPH
+
+
+LIST:
+Mutable
+Linear Data Structure
+Mixed data types
+variable length
+Zero based Indexing
+
+
