@@ -1,0 +1,10 @@
+import queue
+q=queue.PriorityQueue()
+q.put(10)
+q.put(40)
+q.put(50)
+q.put(60)
+q.put(20)
+q.put(220)
+q.put(120)
+print(q)
